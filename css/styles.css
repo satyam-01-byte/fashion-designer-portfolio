@@ -287,7 +287,7 @@ nav a:focus {
   }
 
   .home-about {
-    background-image: url("/img/q/q9.png");
+    background-image: URL("../img/q/q9.png");
     background-repeat: no-repeat;
   }
 
